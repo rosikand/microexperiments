@@ -21,4 +21,5 @@ Take this data point of a 5 in the MNIST dataset:
 
 Now see what happens when we apply a uniform redistribution of pixels by sorting the pixel values in the image row-wise: 
 
-![Sorting%20first%20layer%20of%20neural%20network%2014bba065b3bb4dcc85c98d1ebdfccf1a/Untitled%201.png](Sorting%20first%20layer%20of%20neural%20network%2014bba065b3bb4dcc85c98d1ebdfccf1a/Untitled%201.png)
+![reshuffled-five](https://user-images.githubusercontent.com/57341225/114344805-7e052780-9b2e-11eb-909b-5c084ebe77a4.png)
+
