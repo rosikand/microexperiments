@@ -23,3 +23,5 @@ Now see what happens when we apply a uniform redistribution of pixels by sorting
 
 ![reshuffled-five](https://user-images.githubusercontent.com/57341225/114344805-7e052780-9b2e-11eb-909b-5c084ebe77a4.png)
 
+---
+Note: This experiment is a work-in-progress and is not done yet. More to come soon. 
