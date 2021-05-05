@@ -9,7 +9,11 @@ Created: Feb 20, 2021
 
 What happens if we sort the first input layer of a neural network? Would accuracy improve? What happens if we sort from greatest to least vs. least to greatest? 
 
-**Research question**: Can statistically-learned inference for image classification transfer across a uniform redistribution of pixels?  
+**Research question**: Can statistically-learned inference for image classification transfer across a uniform redistribution of pixels? 
+
+**Motivation**: If the research question is true, then in settings where the data that the models are being trained on needs to be private (e.g. healthcare), the original data doesn't need to be used, but rather the edited, sorted data. 
+
+**Future**: Experimenting with other redistribution methods. 
 
 ---
 
